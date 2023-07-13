@@ -9,7 +9,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
-    "com.vrchat.base": "3.x.x"
+    "com.vrchat.base": "3.2.x"
   },
   "keywords": [
     "VRChat",
