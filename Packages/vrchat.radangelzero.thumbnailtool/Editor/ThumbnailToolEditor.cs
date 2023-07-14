@@ -63,7 +63,7 @@ namespace RadAngelZero.ThumbnailTool.Editor
         private void ToolGui()
         {
             if (!Tool) return;
-            GUILayout.Label("Thumbnail Tool 0.0.1", ThumbnailToolStyles.TitleStyle);
+            GUILayout.Label("Thumbnail Tool 0.0.3", ThumbnailToolStyles.TitleStyle);
             
         }
     }
