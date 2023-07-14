@@ -3,7 +3,7 @@
   "displayName": "Thumbnail Tool",
   "version": "0.0.3",
   "unity": "2019.4",
-  "description": "This is a tool for easy image upload for VRChat SDK",
+  "description": "A tool for easy image upload for VRChat SDK",
   "documentationUrl": "https://example.com/",
   "vrchatVersion": "2022.1.1",
   "dependencies": {
